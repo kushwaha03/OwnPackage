@@ -1,4 +1,3 @@
-import iOSappBuilder
 
 let idioms = [
     "A blessing in disguise",
